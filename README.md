@@ -27,7 +27,7 @@ I chose to make this project because there might be some people that have no ide
 
 ## What did you find difficult while making your project and how did you work it out?
 
-In this project, when I was testing out my design, I realized that my multichannel gas sensor alone was not representing the accurate data. But then when I had added a fan to it, I noticed that the results were more accurate. The reason it was not working was because the air was not circulating so it was not getting the data accurate.
+In this project, when I was testing out my design, I realized that my multichannel gas sensor alone was not representing the accurate data. But then when I had added a fan to it, I noticed that the results were more accurate. The reason it was not working was because the air was not circulating so it was not getting the proper data.
 
 ## Is there anything you would do differently or you would add if you had more time?
 
