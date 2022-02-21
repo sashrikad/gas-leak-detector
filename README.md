@@ -22,4 +22,4 @@
 
 ## Is there anything you would do differently or you would add if you had more time?
 
-#### If I had more time, then I would 
+#### If I had more time, then I would probably add a solar pannel because there are lots of houses that have outdoor oil tanks. If we add solar pannels to it, then it can last long outside. Another thing I would add if I had time would be to collect data for different gas since not all oil tanks have the same gas inside. Like some can have deisle, petrol, and more.
